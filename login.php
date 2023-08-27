@@ -65,7 +65,7 @@ if(isset($_SESSION['ADMIN_USERID'])){
               <div class="col-lg-6">
                 <div class="p-5">
                   <div class="text-center">
-                    <h1 class="h4 text-gray-900 mb-4">Login here!</h1>
+                    <h1 class="h4 text-gray-900 mb-4">Login here!!</h1>
                     <div style="font-size: 12px"> <?php check_message();?></div> 
                   </div>
                   <form class="user" method="POST" action="process.php">
